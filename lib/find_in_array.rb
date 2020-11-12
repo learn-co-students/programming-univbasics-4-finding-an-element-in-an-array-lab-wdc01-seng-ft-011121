@@ -14,4 +14,4 @@ count = 0
 nil 
 end
 
-find_element_index([1,2,3,4,5], 5)
+# find_element_index([1,2,3,4,5], 5)
